@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [leetcode  力扣刷题 100 回顾](leetcode100斩回顾.md)
+* [leetcode 100 回顾](leetcode100回顾.md)
 * [leetcode 力扣刷题 1 到 300 的感受](leetcode力扣刷题1到300的感受.md)
 <!-- * [极客时间优惠](极客时间优惠红包返现.md) -->
 * [1. Two Sum](leetCode-1-Two-Sum.md)
